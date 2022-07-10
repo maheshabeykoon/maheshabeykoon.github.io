@@ -5,12 +5,12 @@ body {
 }
 
 a {
-  color: #149ddd;
+  color: #0b5477;
   text-decoration: none;
 }
 
 a:hover {
-  color: #37b3ed;
+  color: #ea62ea;
   text-decoration: none;
 }
 
@@ -67,8 +67,8 @@ h1, h2, h3, h4, h5, h6 {
 #header .profile img {
   margin: 15px auto;
   display: block;
-  width: 120px;
-  border: 8px solid #2c2f3f;
+  width: 110px;
+  border: 8px solid #0a1136;
 }
 #header .profile h1 {
   font-size: 24px;
